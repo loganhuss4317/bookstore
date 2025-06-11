@@ -145,10 +145,8 @@ button:active {
 
 /* Hightlights */
 
-#highlights:after {
-    background: url('');
-    content: "";
-    position: absolute;
+#highlights:before {
+    content: "blahblahblah"
 }
 
 .highlight__wrapper {
